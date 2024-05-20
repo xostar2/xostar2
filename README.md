@@ -13,7 +13,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view](https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view)
 
-- ⚡ Fun fact **I am very bad at good things**
+- ⚡ Fun fact **I am very good at bad things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
