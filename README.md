@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajkishans883@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view](https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view)
+- 📄 My Resume [https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view](https://drive.google.com/file/d/1x1O7gPssDH3WrPBCA28tyz8OZbVoaHvp/view?usp=drive_link)
 
 - ⚡ Fun fact **I am very good at bad things**
 
