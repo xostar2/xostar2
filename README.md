@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raj Kishan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xostar2&label=Profile%20views&color=0e75b6&style=flat" alt="xostar2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xostar2" alt="xostar2" /></a> </p>
 
-- 🔭 I’m currently working on [NEXEVENT](https://github.com/xostar2/NexEvent)
+- 🔭 I’m currently working at **Trackonweb** Jaipur
 
 - 🌱 I’m currently learning **PYTHON Django,MERN**
 
